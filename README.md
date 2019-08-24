@@ -1,5 +1,5 @@
 # How to works
  
-1 - Access localhost:3000 to get a predefined test
-or
-2 - Post some JSON file at localhost:3000 to input your own test
+<p>1 - Access <a href='http://localhost:3000'>localhost:3000</a> to get a predefined test</p>
+<p>OR</p>
+<p>2 - Post some JSON file at <a href='http://localhost:3000'>localhost:3000</a> to input your own test</p>
